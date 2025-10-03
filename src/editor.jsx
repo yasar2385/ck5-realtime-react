@@ -15,7 +15,7 @@ const LICENSE_KEY =
  * Unique ID that will be used to identify this document. E.g. you may use ID taken from your database.
  * Read more: https://ckeditor.com/docs/ckeditor5/latest/api/module_collaboration-core_config-RealTimeCollaborationConfig.html
  */
-const DOCUMENT_ID = '<YOUR_DOCUMENT_ID>';
+const DOCUMENT_ID = 'test-document-123';
 
 const CLOUD_SERVICES_TOKEN_URL =
 	'https://vzrgs33o40gw.cke-cs.com/token/dev/678b8977923d2bfa3779ec616b050268badfa8690ecab58f8511aec00017?limit=10';
